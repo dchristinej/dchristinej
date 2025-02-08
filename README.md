@@ -5,7 +5,8 @@
         ~ Data
 - 🌱 I’m currently learning:
         ~ Web Development
-        ~ Python
+        ~ Java
+        ~ SQL  
 - 📫 How to reach me 
 
 <!---
